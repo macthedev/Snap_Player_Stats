@@ -525,7 +525,7 @@ def get_CardUnlockHistory():
 		card = '{"Rank": ' + cardUnlockRank + ', "Card": {"Name": "' + cardName + '", "Rarity": "' + rarity + '", "Favorite": "' + favorite + '"}}'
 		card_list.append(json.loads(card))
 		# card_list.append(f" {cardUnlockRank} - {cardName}")
-	return generate_card_unlock_history(sorted(card_list, key=lambda item: int(item['Rank']), reverse=False))
+	return generate_card_unlock_history(sorted(card_list, key=lambda item: int(item['Rank']), reverse=True))
 
 def generate_card_unlock_history(cards):
 	# Number of columns
