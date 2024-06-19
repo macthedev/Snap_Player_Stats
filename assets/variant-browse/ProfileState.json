@@ -1,0 +1,690 @@
+﻿{
+  "$type": "CubeUnity.App.State.ProfileState, App.State",
+  "ServerState": {
+    "$type": "CubeProfile.Profile, SecondDinner.CubeProfile",
+    "Account": {
+      "$type": "CubeProfile.Account, SecondDinner.CubeProfile",
+      "SnapId": "anakin spiderwalker#69372",
+      "Name": "anakin spiderwalker",
+      "Tag": 69372,
+      "NextNameChange": "2023-09-19T13:11:12.2293134Z",
+      "WinsInPlaytestEnvironment": 4440,
+      "LossesInPlaytestEnvironment": 4258,
+      "TiesInPlaytestEnvironment": 42,
+      "AiGamesPlayed": 3,
+      "Concedes": 2097,
+      "OpponentConcedes": 1183,
+      "Snaps": 2721,
+      "LastLogin": "2024-06-19T13:39:16.8191186Z",
+      "CardStats": {
+        "$type": "System.Collections.Generic.Dictionary`2[[CubeDef.CardDefId, SecondDinner.CubeDef],[System.Int32, mscorlib]], mscorlib",
+        "InvisibleWoman": -66,
+        "Rescue": 0,
+        "Storm": -58,
+        "Uatu": 3,
+        "EbonyMaw": -23,
+        "Sera": 13,
+        "Knull": 22,
+        "Falcon": 12,
+        "Jubilee": -8,
+        "MistyKnight": 3,
+        "ScarletWitch": -2,
+        "Shuri": -25,
+        "Caiera": 15,
+        "Skaar": 27,
+        "TyphoidMary": -16,
+        "Quake": 6,
+        "LadySif": 4,
+        "BaronZemo": 0,
+        "BlackWidow": 21,
+        "MariaHill": -7,
+        "Namor": -2,
+        "Angel": -19,
+        "Blade": -6,
+        "Hellcow": -18,
+        "DoctorOctopus": 8,
+        "BlackPanther": 82,
+        "SheHulk": 27,
+        "Starlord": 49,
+        "Legion": 9,
+        "Mystique": -31,
+        "IronFist": -12,
+        "Dagger": 1,
+        "Agent13": 43,
+        "Onslaught": -40,
+        "Leader": -9,
+        "Vulture": -15,
+        "MrNegative": 10,
+        "Titania": -1,
+        "Modok": 13,
+        "Stature": 10,
+        "ShangChi": 104,
+        "Cloak": -3,
+        "Silk": 39,
+        "Debrii": 7,
+        "Sersi": -1,
+        "Stegron": 6,
+        "Abomination": 15,
+        "Thanos": -14,
+        "Sandman": -1,
+        "Hawkeye": 41,
+        "Wolfsbane": 33,
+        "Loki": 19,
+        "JeanGrey": 1,
+        "Echo": 7,
+        "Nakia": 18,
+        "Nova": -17,
+        "JessicaJones": 22,
+        "Mirage": 17,
+        "Giganto": 49,
+        "Dracula": -6,
+        "Nightcrawler": 100,
+        "Djinn": -2,
+        "Infinaut": -2,
+        "Ghost": 10,
+        "HumanTorch": -13,
+        "NicoMinoru": 16,
+        "Martyr": -1,
+        "Vibranium": -17,
+        "CaptainAmerica": 4,
+        "Magneto": 5,
+        "JaneFoster": 25,
+        "Mockingbird": 34,
+        "MoonKnight": -2,
+        "Scorpion": -2,
+        "Yellowjacket": -4,
+        "Juggernaut": 13,
+        "NickFury": -57,
+        "LivingTribunal": -26,
+        "Wong": 41,
+        "X23": 16,
+        "Morph": 3,
+        "Korg": 40,
+        "Sentry": 20,
+        "KaZar": 51,
+        "ColleenWing": 31,
+        "ThePhoenixForce": -23,
+        "Kingpin": 5,
+        "Mojo": 1,
+        "EbonyBlade": 1,
+        "AdamWarlock": 5,
+        "NegasonicTeenageWarhead": -3,
+        "Cosmo": 36,
+        "JeffTheBabyLandShark": 77,
+        "Cyclops": 7,
+        "Okoye": 9,
+        "BaronMordo": -8,
+        "Vision": 21,
+        "DoctorStrange": -7,
+        "Heimdall": -5,
+        "CaptainMarvel": 3,
+        "Orka": -9,
+        "RedGuardian": -2,
+        "Crystal": -3,
+        "CullObsidian": 6,
+        "ArnimZola": 39,
+        "SpiderHam": 3,
+        "Shocker": -2,
+        "Deathlok": -35,
+        "BlackSwan": 4,
+        "Elektra": 19,
+        "Helicarrier": -6,
+        "CorvusGlaive": -14,
+        "Hercules": 1,
+        "Stormbreaker": -1,
+        "RealityStone": -4,
+        "Warpath": -5,
+        "Armor": -9,
+        "RocketRaccoon": 5,
+        "Cerebro": 2,
+        "AgentCoulson": 24,
+        "TheCollector": -4,
+        "RedHulk": 2,
+        "Zero": -15,
+        "Goose": -9,
+        "Cannonball": 20,
+        "Blink": 8,
+        "Colossus": -21,
+        "Beast": 2,
+        "Wasp": 6,
+        "PowerStone": 1,
+        "Wolverine": 17,
+        "AgathaHarkness": -21,
+        "HowardTheDuck": -20,
+        "Hulkbuster": -2,
+        "Lizard": 1,
+        "DrDoom": 110,
+        "Morbius": 33,
+        "SoulStone": -2,
+        "Mjolnir": 5,
+        "Rogue": -11,
+        "Leech": 18,
+        "ShadowKing": 8,
+        "ElsaBloodstone": 58,
+        "MilesMorales": 6,
+        "Shanna": 22,
+        "Mysterio": -16,
+        "BuckyBarnes": -18,
+        "Hood": 23,
+        "Bast": -8,
+        "Ultron": 13,
+        "Enchantress": 20,
+        "SpaceStone": -4,
+        "BlackKnight": 18,
+        "Sabretooth": 9,
+        "Demon": -1,
+        "OmegaRed": 1,
+        "Ronan": 1,
+        "SuperSkrull": -15,
+        "Punisher": 18,
+        "IronMan": -42,
+        "Attuma": 8,
+        "BlackCat": -8,
+        "Wave": 4,
+        "RedSkull": 23,
+        "Gilgamesh": 24,
+        "Valkyrie": -4,
+        "Iceman": -6,
+        "AntMan": 53,
+        "Bishop": -18,
+        "Deadpool": -13,
+        "SilverSurfer": 58,
+        "SnowguardBear": 0,
+        "MrFantastic": 31,
+        "Drax": 0,
+        "Miek": -1,
+        "ProfessorX": -53,
+        "LukeCage": 17,
+        "Forge": 74,
+        "Hulk": 50,
+        "Spectrum": 4,
+        "Patriot": 16,
+        "Thor": 5,
+        "Hazmat": -4,
+        "GhostSpider": -12,
+        "Klaw": 46,
+        "Snowguard": 2,
+        "MindStone": 6,
+        "Rhino": 9,
+        "Sasquatch": -4,
+        "Sentinel": 97,
+        "Ironheart": -2,
+        "AmericaChavez": 42,
+        "Pig": 1,
+        "Hela": -38,
+        "StrongGuy": 1,
+        "Medusa": 23,
+        "MoonGirl": 12,
+        "KittyPryde": 26,
+        "Venom": -27,
+        "MrSinister": -14,
+        "Daredevil": 32,
+        "SnowguardHawk": 1,
+        "Daken": 31,
+        "MasterMold": -3,
+        "TimeStone": 12,
+        "Nimrod": 20,
+        "AbsorbingMan": 9,
+        "SwordMaster": 32,
+        "LadyDeathstrike": 9,
+        "HitMonkey": -23,
+        "Apocalypse": 20,
+        "Viper": 29,
+        "Gladiator": 0,
+        "Annihilus": 2,
+        "Nebula": 87,
+        "TheThing": 15,
+        "Angela": 41,
+        "MBaku": -2,
+        "Darkhawk": 43,
+        "Kang": -8,
+        "Swarm": 41,
+        "SpiderMan2099": -9,
+        "Yondu": -25,
+        "Maximus": 17,
+        "Crossbones": -16,
+        "Sauron": -1,
+        "Lockjaw": 20,
+        "Aero": 10,
+        "WerewolfByNight": 4,
+        "Supergiant": 0,
+        "Quicksilver": 0,
+        "SpiderMan": 45,
+        "RavonnaRenslayer": -6,
+        "SilverSamurai": -1,
+        "Blob": -5,
+        "Rock": -55,
+        "Hobgoblin": 13,
+        "ManThing": 5,
+        "GhostRider": -29,
+        "WhiteTiger": 23,
+        "Taskmaster": 15,
+        "Polaris": 12,
+        "Groot": -3,
+        "Death": -18,
+        "Sunspot": 38,
+        "Galactus": 26,
+        "Cable": 61,
+        "GreenGoblin": 14,
+        "Dazzler": 31,
+        "Killmonger": 12,
+        "Brood": 25,
+        "Carnage": -17,
+        "BlackBolt": -1,
+        "Gambit": -8,
+        "Kraven": 26,
+        "Mantis": -12,
+        "Psylocke": 46,
+        "SebastianShaw": 22,
+        "Domino": -2,
+        "SquirrelGirl": 18,
+        "MobiusMMobius": 1,
+        "WhiteQueen": 41,
+        "SpiderWoman": -13,
+        "HighEvolutionary": 5,
+        "HopeSummers": 35,
+        "Destroyer": -2,
+        "GrandMaster": -1,
+        "MultipleMan": 0,
+        "BlueMarvel": 22,
+        "Quinjet": 1,
+        "Alioth": 31,
+        "Zabu": 29,
+        "DevilDinosaur": 77,
+        "Rockslide": 13,
+        "Gamora": 14,
+        "IronLad": -16,
+        "Electro": -32,
+        "MsMarvel": 10,
+        "Odin": -2,
+        "Magik": -61
+      },
+      "PreviousGames": [
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile",
+          "Retreat": true
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile",
+          "Retreat": true
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile"
+        },
+        {
+          "$type": "CubeProfile.PreviousGameStatistic, SecondDinner.CubeProfile",
+          "Retreat": true
+        }
+      ],
+      "Id": "e8562685-f1fb-4562-a0a7-a9ac3e629a75",
+      "DataVersion": 10709,
+      "TimeCreated": "2022-10-18T16:32:38.061Z",
+      "TimeUpdated": "2024-06-19T13:39:16.82Z"
+    },
+    "FeatureDefIdsUnlocked": {
+      "$type": "CubeProfile.FeatureDefIdsUnlocked, SecondDinner.CubeProfile",
+      "FeatureDefIdsUnlockedDataLayerModel": {
+        "$type": "CubeProfile.FeatureDefIdsUnlockedDataLayerModel, SecondDinner.CubeProfile",
+        "FeatureDefIds": [
+          "BattleMode",
+          "BattlePass",
+          "CardBacks",
+          "SpecialDeals",
+          "DailyOffers",
+          "Localization",
+          "RankedMode",
+          "GenericAvatars",
+          "AgentRank",
+          "TokenShop",
+          "PracticeMode",
+          "ConquestMode",
+          "GoldCardRarityUpgrade",
+          "MultiCardRarityUpgrade",
+          "BattlePassNotificationBadges",
+          "ShopNotificationBadges",
+          "InboxNotificationBadges",
+          "Albums",
+          "SmartDeck",
+          "CollectableEmotes",
+          "Reactions",
+          "CustomCardEditor",
+          "LoginBonus",
+          "PersonalizedBundles",
+          "SpotlightCache",
+          "CustomCard",
+          "GoldPass",
+          "ReactionWheel",
+          "CohortLeagues",
+          "StepUpBundles",
+          "CosmeticsVendor",
+          "SpotlightRarityDailyOffers",
+          "CharacterWideInfinitySplits",
+          "CollectibleBorder",
+          "PromoNewVariantDailyOffers",
+          "BrazeModals",
+          "CollectibleBorderCharges",
+          "WinBackBundles"
+        ],
+        "DebugOverrideEnableFeatureDefIds": {
+          "$type": "System.Collections.Generic.Dictionary`2[[CubeDef.Id`1[[CubeDef.FeatureDef, SecondDinner.CubeDef]], SecondDinner.CubeDef],[System.Boolean, mscorlib]], mscorlib"
+        },
+        "Id": "19dffa55-f046-463c-b006-8e6a0054e153",
+        "DataVersion": 10493,
+        "TimeCreated": "2022-10-18T16:32:38.061Z",
+        "TimeUpdated": "2024-06-19T13:39:11.273Z"
+      },
+      "DisabledFeatures": [
+        "Reactions",
+        "Clans",
+        "HighStakesTables",
+        "BotInvasion",
+        "Reactions",
+        "Clans",
+        "HighStakesTables",
+        "BotInvasion"
+      ]
+    },
+    "RankLog": {
+      "$type": "CubeProfile.RankLog, SecondDinner.CubeProfile",
+      "RankedSeasonDefId": "June2024",
+      "Rank": 73,
+      "Trophies": 2,
+      "HighWatermarkRank": 75,
+      "CurrentRankDetails": {
+        "$type": "CubeProfile.RankDetails, SecondDinner.CubeProfile",
+        "Rank": 73,
+        "Trophies": 2
+      },
+      "HighWatermarkRankDetails": {
+        "$type": "CubeProfile.RankDetails, SecondDinner.CubeProfile",
+        "Rank": 75,
+        "Trophies": 3
+      },
+      "RankDetailsAtSeasonStart": {
+        "$type": "CubeProfile.RankDetails, SecondDinner.CubeProfile",
+        "Rank": 43
+      },
+      "GamesPlayedInSeason": 190,
+      "RewardsClaimedThisSeason": [
+        "June2024Iron",
+        "June2024Bronze",
+        "June2024Silver",
+        "June2024Gold",
+        "June2024Platinum",
+        "June2024Diamond",
+        "June2024Vibranium"
+      ],
+      "Id": "666c79d8-0a9a-43a3-9681-3d689e6e3429",
+      "DataVersion": 10186,
+      "TimeCreated": "2022-10-18T16:32:38.061Z",
+      "TimeUpdated": "2024-06-19T13:39:11.273Z"
+    },
+    "LeaderboardLog": {
+      "$type": "CubeProfile.LeaderboardLog, SecondDinner.CubeProfile",
+      "RankedSeasonDefId": "June2024",
+      "InfiniteLeaderboardSkillRating": 4656,
+      "InfiniteLeaderboardDetails": {
+        "$type": "CubeProfile.LeaderboardDetails, SecondDinner.CubeProfile",
+        "SkillRating": 4656
+      },
+      "Id": "1bc7639a-e58a-4ea5-ad55-ffe49e8592cd",
+      "DataVersion": 9,
+      "TimeCreated": "2023-09-06T05:43:49.265Z",
+      "TimeUpdated": "2024-06-04T21:41:21.554Z"
+    },
+    "TutorialLog": {
+      "$type": "CubeProfile.TutorialLog, SecondDinner.CubeProfile",
+      "Completed": [
+        "Tutorial_1",
+        "Tutorial_2",
+        "EnterCollection",
+        "DeckEditing",
+        "PlayUpdatedDeck",
+        "UpgradeCardPart1",
+        "UpgradeCardPart2",
+        "UpgradeCardPart3",
+        "ReachedIronTier",
+        "StakesTutorial_1",
+        "StakesTutorial_2",
+        "StakesTutorial_3",
+        "PurchaseLimits",
+        "InfinitySplit",
+        "CustomCardUnlock"
+      ],
+      "StakesTutorialOrder": [
+        "StakesTutorial_1",
+        "StakesTutorial_2",
+        "StakesTutorial_3"
+      ],
+      "HurryUpBarksConfigType": "Default",
+      "CardUpgradeTutorialConfigType": "Default",
+      "TutorialFlowConfigType": "Default",
+      "Id": "48202376-d9fa-4c6a-b753-955bf84832e8",
+      "DataVersion": 18,
+      "TimeCreated": "2022-10-18T16:32:38.061Z",
+      "TimeUpdated": "2024-03-13T22:14:59.415Z"
+    },
+    "MatchMakingRating": {
+      "$type": "CubeProfile.MatchMakingRating, SecondDinner.CubeProfile",
+      "Ratings": [],
+      "RankedSeasons": [],
+      "LeaderboardRatingData": {
+        "$type": "Cube.Common.LeaderboardRatingData, SecondDinner.Cube.Common"
+      }
+    },
+    "MatchHistory": {
+      "$type": "CubeProfile.MatchHistory, SecondDinner.CubeProfile",
+      "HistoryPerLeague": []
+    },
+    "ClientConfiguration": {
+      "$type": "CubeProfile.ClientConfiguration, SecondDinner.CubeProfile"
+    },
+    "Wallet": {
+      "$type": "Cube.Common.Wallet, SecondDinner.Cube.Common",
+      "_creditsCurrency": {
+        "$type": "Cube.Common.CreditsCurrency, SecondDinner.Cube.Common",
+        "EarnedAmount": 760,
+        "SpentAmount": 646665,
+        "CurrencyType": "Credits",
+        "TotalAmount": 760
+      },
+      "_goldCurrency": {
+        "$type": "Cube.Common.GoldCurrency, SecondDinner.Cube.Common",
+        "TotalAmount": 25,
+        "FreeGold": 25,
+        "EarnedAmount": 25,
+        "SpentAmount": 69920
+      },
+      "_collectorsTokensCurrency": {
+        "$type": "Cube.Common.CollectorsTokensCurrency, SecondDinner.Cube.Common",
+        "EarnedAmount": 5050,
+        "SpentAmount": 58000,
+        "TotalAmount": 5050
+      },
+      "_borderCharges": [
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicBlue",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicGold",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicGreen",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicOrange",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicPink",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicRed",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicCopper",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicGold",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicSilver",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonBlue",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonGreen",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonPurple",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonRed",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonWhite",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonYellow",
+          "CurrencyType": "BorderCharge"
+        }
+      ],
+      "HighStakesTablesCurrencies": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[Cube.Common.HighStakesTablesCurrency, SecondDinner.Cube.Common]], mscorlib"
+      },
+      "BorderCharges": [
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicBlue",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicGold",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicGreen",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicOrange",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicPink",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "CosmicRed",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicCopper",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicGold",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "MetallicSilver",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonBlue",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonGreen",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonPurple",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonRed",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonWhite",
+          "CurrencyType": "BorderCharge"
+        },
+        {
+          "$type": "Cube.Common.BorderChargeCurrency, SecondDinner.Cube.Common",
+          "BorderDefId": "NeonYellow",
+          "CurrencyType": "BorderCharge"
+        }
+      ],
+      "Id": "48d949c4-a671-4bac-b760-19f80ede5e22",
+      "DataVersion": 1524,
+      "TimeCreated": "2024-03-13T21:32:55.123Z",
+      "TimeUpdated": "2024-06-19T13:16:04.504Z"
+    }
+  },
+  "ClientState": {
+    "$type": "CubeUnity.App.State.ProfileClientState, App.State",
+    "AskForNotifications": true,
+    "MutedAccountIds": []
+  }
+}

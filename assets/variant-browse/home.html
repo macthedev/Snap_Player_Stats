@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Unlocked Marvel Snap Cards</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <script src="variants.js" />
+    <h1>Unlocked Marvel Snap Cards</h1>
+    <input type="text" id="search" placeholder="Search for cards..." onkeyup="filterCards()">
+    <table id="cardsTable">
+        <tr>
+            <th>Card Name</th>
+            <th>Variants</th>
+        </tr>
+        <!-- Rows will be inserted here by Python -->
+    </table>
+</body>
+</html>
